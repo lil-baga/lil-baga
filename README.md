@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/html5-8a4647?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-8a4647?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-8a4647?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/laravel-%8a4647.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%8a4647.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel-%8a4647?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%8a4647?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-8a4647?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-8a4647?style=for-the-badge&logo=mysql&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
@@ -26,9 +26,9 @@
 
 <h3 align="center">My Social</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/akmalihab/"><img src="https://img.shields.io/badge/linkedin-%8a4647.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akmalihab/"><img src="https://img.shields.io/badge/linkedin-%8a4647?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:akmalihab@gmail.com"><img src="https://img.shields.io/badge/Gmail-8a4647?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lilbagavert/"><img src="https://img.shields.io/badge/Instagram-%8a4647.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/lilbagavert/"><img src="https://img.shields.io/badge/Instagram-%8a4647?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
