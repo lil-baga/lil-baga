@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Akmal Ihab Syauqi</h1>
+<p align="center">Hi, I'm Akmal Ihab Syauqi</p>
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c%23&logoColor=white"/> -->
